@@ -1,4 +1,4 @@
-# Food Market Analysis
+# FoodTrends: A Data-Driven Exploration of Market Dynamics
 
 ![alt text](Attachments/OIG1.jpg)
 
